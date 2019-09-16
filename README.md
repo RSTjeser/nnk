@@ -50,3 +50,4 @@ BOT LINE JESRE2
 💥🔝cd nnk
 
 💥🔝python3 mjf2.py
+
